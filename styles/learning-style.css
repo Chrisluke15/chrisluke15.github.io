@@ -26,13 +26,20 @@ body {
 
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #ffffff;
   color: black;
 }
 
 
 .content {
-  background-color: #ddd;
+  background-color: #fefefe;
   padding: 10px;
   height: 200px; 
+}
+
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+ align-content: center;
 }
